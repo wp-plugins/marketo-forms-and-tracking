@@ -1,5 +1,5 @@
 === Marketo Forms and Tracking ===
-Contributors: sholloway
+Contributors: hutchhouse
 Donate link: http://example.com/
 Tags: marketo, forms, marketing, lead, tracking
 Requires at least: 3.8
