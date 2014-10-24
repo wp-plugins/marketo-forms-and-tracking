@@ -1,0 +1,30 @@
+.marketo-fat-popout {
+  position: fixed;
+  bottom: 0;
+  right: 40px; }
+
+.mfatp-outer {
+  height: 0; }
+
+.mfatp-tab {
+  background: #fff;
+  border-width: 2px 2px 0 2px;
+  border-color: #ccc;
+  border-style: solid;
+  float: right;
+  margin-right: 50px;
+  margin-bottom: -2px;
+  display: block;
+  padding: 5px 15px;
+  white-space: nowrap; }
+
+.mfatp-body {
+  background: #fff;
+  clear: both;
+  overflow: hidden;
+  border-width: 2px 2px 0 2px;
+  border-color: #ccc;
+  border-style: solid; }
+
+.mfatp-inner {
+  padding: 20px; }
