@@ -6,7 +6,7 @@
  * 
  * Plugin Name: Marketo Forms and Tracking
  * Description: Integrate Marketo with WordPress by providing wysiwyg shortcodes, prepopulating fields and running the munchkin.js script
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Hutchhouse
  * Author URI: http://www.hutchhouse.com
  * 
